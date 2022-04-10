@@ -1,0 +1,14 @@
+{
+  "name": "fnathenaprofilegenrator",
+  "version": "0.0.1",
+  "description": "Generate athena profile with extracted folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Starfier",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
